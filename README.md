@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hey there 👋
 
+My name is Jim Morrison and I work as a Community Manager at Auth0.  I am a product focused, community passionate, organized driven developer who loves to generate content! 
+
+Let’s work together in making the internet a more fun and collaborative space! 
 <!--
 **JimCMorrison/JimCMorrison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
